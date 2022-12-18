@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\SystemPorgramExam\SystemPorgramExam\bin\Debug\net6.0\SystemPorgramExam.exe
+C:\Users\User\source\repos\SystemPorgramExam\SystemPorgramExam\bin\Debug\net6.0\SystemPorgramExam.deps.json
+C:\Users\User\source\repos\SystemPorgramExam\SystemPorgramExam\bin\Debug\net6.0\SystemPorgramExam.runtimeconfig.json
+C:\Users\User\source\repos\SystemPorgramExam\SystemPorgramExam\bin\Debug\net6.0\SystemPorgramExam.dll
+C:\Users\User\source\repos\SystemPorgramExam\SystemPorgramExam\bin\Debug\net6.0\SystemPorgramExam.pdb
+C:\Users\User\source\repos\SystemPorgramExam\SystemPorgramExam\obj\Debug\net6.0\SystemPorgramExam.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SystemPorgramExam\SystemPorgramExam\obj\Debug\net6.0\SystemPorgramExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SystemPorgramExam\SystemPorgramExam\obj\Debug\net6.0\SystemPorgramExam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SystemPorgramExam\SystemPorgramExam\obj\Debug\net6.0\SystemPorgramExam.AssemblyInfo.cs
+C:\Users\User\source\repos\SystemPorgramExam\SystemPorgramExam\obj\Debug\net6.0\SystemPorgramExam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SystemPorgramExam\SystemPorgramExam\obj\Debug\net6.0\SystemPorgramExam.dll
+C:\Users\User\source\repos\SystemPorgramExam\SystemPorgramExam\obj\Debug\net6.0\refint\SystemPorgramExam.dll
+C:\Users\User\source\repos\SystemPorgramExam\SystemPorgramExam\obj\Debug\net6.0\SystemPorgramExam.pdb
+C:\Users\User\source\repos\SystemPorgramExam\SystemPorgramExam\obj\Debug\net6.0\SystemPorgramExam.genruntimeconfig.cache
+C:\Users\User\source\repos\SystemPorgramExam\SystemPorgramExam\obj\Debug\net6.0\ref\SystemPorgramExam.dll

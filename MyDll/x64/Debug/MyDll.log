@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  BasicMath.cpp
+  dllmain.cpp
+  Generating Code...
+     Creating library C:\Users\User\source\repos\SystemPorgramExam\x64\Debug\MyDll.lib and object C:\Users\User\source\repos\SystemPorgramExam\x64\Debug\MyDll.exp
+  MyDll.vcxproj -> C:\Users\User\source\repos\SystemPorgramExam\x64\Debug\MyDll.dll
